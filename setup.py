@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="tn_weather_reporter",
-    version="0.1.0",
+    version="0.1.1",
     description="A Python package to get weather reports for any location.",
     long_description=readme(),
     long_description_content_type="text/markdown",

@@ -1,7 +1,6 @@
 import argparse
 from .utils import *
 
-
 def main():
 	# create argument parser object 
 	parser = argparse.ArgumentParser(description = "Weather Reporter") 
